@@ -1,0 +1,97 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid white;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  #fact {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+
+  #fact {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+
+  #fact img {
+    width: 400px; 
+    height: 400px; /
+}
+
+.dog{
+  display: flex;
+  justify-content: center;
+  
+}
+
+.Evolution{
+  display: flex;
+  justify-content: center;
+}
+
+.class{
+  display: flex;
+  justify-content: center;
+}
+
+.cat{
+  display: flex;
+  justify-content: center;
+}
+
+.naming{
+  display: flex;
+  justify-content: center;
+}
+
+.Etymology{
+  display: flex;
+  justify-content: center;
+}
+
+.cat1{
+  display: flex;
+  justify-content: center;
+}
+
+.fox{
+  display: flex;
+  justify-content: center;
+}
+
+.fox1{
+  display: flex;
+  justify-content: center;
+}
+
+.relationships{
+  display: flex;
+  justify-content: center;
+}
